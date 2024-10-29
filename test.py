@@ -71,8 +71,8 @@ class grandchild(child):
     
 a1 = grandchild()
 
-a1.student_name("umar")
-a1.student_age(24)
+a1.student_name("umar iqbal")
+a1.student_age(26)
 a1.student_gender("male")
 
 a1.show_name()
